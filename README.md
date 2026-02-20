@@ -1,4 +1,4 @@
-# ccna-lab-inter-vlan-routing and dhcp
+# CCNA-Lab-Inter-Vlan-Routing and DHCP
 Inter-VLAN routing lab with router-on-a-stick configuration
 -----
 ## Lab Overview
