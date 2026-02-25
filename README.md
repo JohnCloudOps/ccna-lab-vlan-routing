@@ -157,5 +157,8 @@ show ip dhcp pool
 
 Full video walkthrough available here 
 
+
+Join my community
+https://www.skool.com/tech-interviews-6909/about
+
 👨‍💻 Author: John Munjoma
-Join my community https://www.skool.com/tech-interviews-6909/about
