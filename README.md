@@ -155,5 +155,7 @@ show ip dhcp pool
 # Inter-VLAN routing ✅
 # DHCP services ✅
 
-Aurther
-Join our community https://www.skool.com/tech-interviews-6909/about
+Full video walkthrough available here 
+
+👨‍💻 Author: John Munjoma
+Join my community https://www.skool.com/tech-interviews-6909/about
